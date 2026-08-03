@@ -1,5 +1,4 @@
 <h2 align="left">Hi 😶‍🌫️! My name is Ahsanul</h2>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
@@ -16,9 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
 </div>
 
-###
 [<img src="https://img.shields.io/badge/Portfolio-050608?style=for-the-badge&logo=googlechrome&logoColor=FFD84D" height="35"/>](https://ahsanul22.netlify.app) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>](https://instagram.com/ahsankholiqin) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>](https://mail.google.com/mail/?view=cm&fs=1&to=ahsanlubis308@gmail.com&su=Halo&body=Halo) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>](https://www.linkedin.com/in/ahsanul22)
-###
 
 <h5>💻 About Me</h5>
 <p align="left">
@@ -42,6 +39,5 @@
 🏛️ Data Administration Intern at Bappelitbang Provinsi Sumatera Utara<br>
 🎨 PDD (Publication, Documentation & Design) coordinator across multiple campus events, 2023–2024
 </p>
-###
+
 <img src="https://raw.githubusercontent.com/ahsanul22/ahsanul22/output/snake.svg" alt="Snake animation" />
-###
