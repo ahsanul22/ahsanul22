@@ -28,10 +28,10 @@
 
 <h5>🏗️ Current Projects</h5>
 <p align="left">
-🛒 Mini-Tokopedia — a full-stack marketplace built with Laravel, complete transaction flow and seller dashboard<br>
-🏘️ Website Desa Wisata — tourism sites for 5 strategic villages in North Sumatra, part of a master plan collaboration between USU Postgraduate School and the Provincial Tourism Office<br>
+🛒 Mini-Tokopedia, a full-stack marketplace built with Laravel, complete transaction flow and seller dashboard<br>
+🏘️ Website Desa Wisata, tourism sites for 5 strategic villages in North Sumatra, part of a master plan collaboration between USU Postgraduate School and the Provincial Tourism Office<br>
 📚 E-learning platform built with a microservices architecture (Auth, User, Class, and Loan services)<br>
-🎮 Semantic Web Game Explorer — a linked-data explorer connecting game data via RDF/SPARQL, deployed live
+🎮 Semantic Web Game Explorer, a linked-data explorer connecting game data via RDF/SPARQL, deployed live
 </p>
 
 <h5>🏅 Experience</h5>
