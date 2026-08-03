@@ -42,6 +42,4 @@
 🏛️ Data Administration Intern at Bappelitbang Provinsi Sumatera Utara<br>
 🎨 PDD (Publication, Documentation & Design) coordinator across multiple campus events, 2023–2024
 </p>
-###
 <img src="https://raw.githubusercontent.com/ahsanul22/ahsanul22/output/snake.svg" alt="Snake animation" />
-###
